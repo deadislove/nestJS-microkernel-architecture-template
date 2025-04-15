@@ -25,6 +25,8 @@
 
 This template implements a Microkernel (Plug-in) architecture with NestJS. It enables modular design, dynamic feature loading, and scalable domain separation. It’s well-suited for building feature-rich and extensible backend systems.
 
+<a href='https://ko-fi.com/F1F82YR41' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 ## 🏗 Architecture Concept
 
 This system is divided into 3 major containers:
