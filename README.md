@@ -21,6 +21,9 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=deadislove.nestJS-microkernel-architecture-template)
+![Clones](https://img.shields.io/badge/clones-0_total_0_unique-blue) <!--CLONE-BADGE-->
+
 ## 🧩 Project Overview
 
 This template implements a Microkernel (Plug-in) architecture with NestJS. It enables modular design, dynamic feature loading, and scalable domain separation. It’s well-suited for building feature-rich and extensible backend systems.
