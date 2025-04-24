@@ -22,7 +22,7 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=deadislove.nestJS-microkernel-architecture-template)
-![Clones](https://img.shields.io/badge/clones-21_total_14_unique-blue) <!--CLONE-BADGE-->
+![Clones](https://img.shields.io/badge/clones-30_total_21_unique-blue) <!--CLONE-BADGE-->
 
 ## 🧩 Project Overview
 
