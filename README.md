@@ -23,7 +23,7 @@
 
 <!--![Visitors](https://visitor-badge.laobi.icu/badge?page_id=deadislove.nestJS-microkernel-architecture-template) -->
 ![Visitors](https://img.shields.io/badge/visitors-16_total-brightgreen)
-![Clones](https://img.shields.io/badge/clones-19_total_15_unique-blue) <!--CLONE-BADGE-->
+![Clones](https://img.shields.io/badge/clones-18_total_14_unique-blue) <!--CLONE-BADGE-->
 
 ## 🧩 Project Overview
 
