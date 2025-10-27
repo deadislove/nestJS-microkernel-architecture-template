@@ -22,8 +22,8 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 <!--![Visitors](https://visitor-badge.laobi.icu/badge?page_id=deadislove.nestJS-microkernel-architecture-template) -->
-![Visitors](https://img.shields.io/badge/visitors-67_total-brightgreen)
-![Clones](https://img.shields.io/badge/clones-23_total_17_unique-blue) <!--CLONE-BADGE-->
+![Visitors](https://img.shields.io/badge/visitors-44_total-brightgreen)
+![Clones](https://img.shields.io/badge/clones-24_total_17_unique-blue) <!--CLONE-BADGE-->
 
 ## 🧩 Project Overview
 
